@@ -1,4 +1,4 @@
-name: CI
+name: every_change_occurs
 on:
   push:
     branches: [ master ]
