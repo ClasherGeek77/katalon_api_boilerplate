@@ -1,4 +1,2 @@
 # API-Automation-Katalon
-2nd
-3rd
-4th
+This repo is example of github CI for katalon
