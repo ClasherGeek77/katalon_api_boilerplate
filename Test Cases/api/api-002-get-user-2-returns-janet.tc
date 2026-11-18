@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>api-002-get-user-2-returns-janet</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ff16de53-8cac-44ac-a159-3b33e303fd46</testCaseGuid>
+</TestCaseEntity>

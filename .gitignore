@@ -1,0 +1,7 @@
+.DS_Store
+Reports/
+bin/
+.cache
+.settings/
+console.properties
+Libs/Temp*.groovy

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GlobalVariableEntities>
+   <description>the local reqresin clone</description>
+   <name>default</name>
+   <tag></tag>
+   <defaultProfile>true</defaultProfile>
+   <GlobalVariableEntity>
+      <description>root of the reqresin clone, trailing slash included</description>
+      <initValue>'http://localhost:40000/'</initValue>
+      <name>BASE_URL</name>
+   </GlobalVariableEntity>
+</GlobalVariableEntities>
